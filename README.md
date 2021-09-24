@@ -1,2 +1,3 @@
 # GraphicsWork
-Gimp and Blender Projects 
+Computer Graphics Subject Practical Work - Gimp and Blender Projects 
+
